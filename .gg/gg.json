@@ -1,4 +1,9 @@
 {
-  "repositories": {},
+  "repositories": {
+    "server-spring": {
+      "Name": "server-spring",
+      "Path": "backend/server/spring"
+    }
+  },
   "repo_aware_context_message": true
 }
