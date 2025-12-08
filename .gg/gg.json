@@ -1,5 +1,9 @@
 {
   "repositories": {
+    "client-sdk-java": {
+      "Name": "client-sdk-java",
+      "Path": "client/sdks/java"
+    },
     "server-spring": {
       "Name": "server-spring",
       "Path": "backend/server/spring"
