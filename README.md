@@ -1,2 +1,13 @@
+
+
 # Kuxyl
-Kuxyl is a multi-tenant observability platform merging structured logging with distributed tracing. It captures hierarchical telemetry to reconstruct end-to-end execution flows. With a scalable backend and context-aware SDKs, Kuxyl delivers granular insight into system behavior, eliminating the gap between static logs and dynamic traces.
+
+**The Multi-tenant Observability Platform for Hierarchical Execution Flows.**
+
+Kuxyl is a distributed observability engine designed for deep system introspection. It unifies structured logging and tracing into a single workflow, mapping complete execution lifecycles rather than flat text streams. By treating every log entry as a connected node, Kuxyl reconstructs the exact path of your application's logic from start to finish.
+
+### Core Philosophy
+Traditional logs tell you *what* happened; Kuxyl tells you *where* it fits.
+* **Hierarchical Context:** Automatically tracks parent-child relationships between events.
+* **Unified Tracing:** Eliminates the gap between static logs and dynamic traces.
+* **Granular Insight:** Visualize the full journey of a request across service boundaries.
