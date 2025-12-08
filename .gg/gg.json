@@ -1,5 +1,9 @@
 {
   "repositories": {
+    "client-sdk-go": {
+      "Name": "client-sdk-go",
+      "Path": "client/sdks/go"
+    },
     "client-sdk-java": {
       "Name": "client-sdk-java",
       "Path": "client/sdks/java"
